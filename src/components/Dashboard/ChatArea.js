@@ -318,7 +318,7 @@ export const ChatArea = () => {
 
             <Box
               id="chat-box"
-              h={"85%"}
+              h={"79%"}
               // flex={1}
               overflowY="auto"
               sx={scrollbarconfig}
